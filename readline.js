@@ -11,3 +11,8 @@ rl.question("What is your name? ", (name) => {
     rl.close();
   });
 });
+
+rl.question("hello mate ", (input) => {
+    console.log(input);
+    
+})

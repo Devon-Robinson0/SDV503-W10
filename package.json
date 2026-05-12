@@ -1,0 +1,21 @@
+{
+  "name": "sdv503-w10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "columns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devon-Robinson0/SDV503-W10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Devon-Robinson0/SDV503-W10/issues"
+  },
+  "homepage": "https://github.com/Devon-Robinson0/SDV503-W10#readme"
+}
